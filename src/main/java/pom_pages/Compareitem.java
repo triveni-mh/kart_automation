@@ -106,7 +106,6 @@ public class Compareitem extends Base{
 		
 		
 		
-		
 }
 
 }
